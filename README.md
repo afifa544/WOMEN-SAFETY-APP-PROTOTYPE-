@@ -1,4 +1,4 @@
-# 👮 Guardian Safety App (Android Prototype)
+# 👮 WOMEN Safety App (Android Prototype)
 
 Android safety app **prototype** with emergency alert functionality - developed and tested in Android Studio emulator.
 
